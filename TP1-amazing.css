@@ -1,0 +1,72 @@
+/* 
+BInome: 
+Bouabda aymen 
+Bouchama Haithem 
+*/
+
+
+
+/*
+ qst: 2 
+*/
+
+img{
+    border: 1px solid red
+    ;
+}
+/* qst: 3 */
+h1{
+    background-color: black;
+}
+/* qst: 4 */
+h1,h2{
+    color: gray;
+}
+/* qst: 5 */
+.s>h2{
+   border: 2px solid green; 
+}
+/* qst: 6 */
+#mon6{
+    color: pink;
+}
+/* qst: 7 */
+#mon7{
+    border: 2px solid red;
+}
+/* qst: 8 */
+#mon8{
+    background-color: yellow;
+}
+/* qst: 9 */
+.w>h2:hover{
+    color: green;
+}
+/* qst: 10 */
+.m>h2:hover,#tue>h2:hover{
+    color: red;
+}
+/* qst: 13 */
+li:first-of-type{
+    font-size: large;
+}
+/* qst: 14 */
+li:nth-child(2){
+    color: red;
+}
+/* qst: 15 */
+#tue15{
+    color: blue;
+}
+/* qst: 16 */
+#tue16{
+    font-size: 200%;
+}
+/* qst:17 */
+li:nth-of-type(9){
+    color: blue;
+}
+/* qst:18 */
+li:nth-of-type(5n+3){
+    color: green;
+}
